@@ -1,8 +1,7 @@
-# WeedWise
-Smart weed detection and classification for precision agriculture.
+# Gender Distribution's affect on Classical Machine Learning and LLMs in COVID-19 Data
 
 # Written Proposal
-[Proposal Document](Documentation/WeedWise_Proposal.pdf)
+[Proposal Document]()
 
 # Video Proposal
-[Watch Here](https://www.youtube.com/watch?v=riI64fYa9yc)
+[Watch Here]()
