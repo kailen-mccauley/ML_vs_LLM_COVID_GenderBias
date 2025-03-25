@@ -1,0 +1,20 @@
+{
+  "Age": 0.167,
+  "ICU": 0.134,
+  "Intubed": 0.117,
+  "Patient Type": 0.100,
+  "Diabetes": 0.084,
+  "Hypertension": 0.075,
+  "Cardiovascular": 0.067,
+  "COPD": 0.059,
+  "Renal chronic": 0.050,
+  "Obesity": 0.042,
+  "Inmsupr": 0.033,
+  "Other disease": 0.025,
+  "Asthma": 0.017,
+  "Tobacco": 0.013,
+  "Pregnancy": 0.008,
+  "Medical unit": 0.005,
+  "Usmr": 0.003,
+  "Sex": 0.000
+}
