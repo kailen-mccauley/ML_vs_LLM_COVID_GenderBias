@@ -12,8 +12,8 @@
   "Tobacco": 0.03,
   "ICU": 0.02,
   "Other disease": 0.02,
-  "Patient Type": 0.01,
-  "Usmr": 0.01,
+  "Patient Type": 0.02,
+  "Usmr": 0.02,
   "Medical unit": 0.01,
   "Sex": 0.0,
   "Pregnancy": 0.0

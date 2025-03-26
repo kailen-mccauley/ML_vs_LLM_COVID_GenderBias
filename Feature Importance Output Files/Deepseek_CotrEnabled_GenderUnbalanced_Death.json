@@ -14,7 +14,7 @@
   "Asthma": 0.01,
   "Sex": 0.01,
   "Tobacco": 0.01,
-  "Pregnancy": 0.01,
+  "Pregnancy": 0.00,
   "Usmr": 0.005,
   "Medical unit": 0.005
 }
