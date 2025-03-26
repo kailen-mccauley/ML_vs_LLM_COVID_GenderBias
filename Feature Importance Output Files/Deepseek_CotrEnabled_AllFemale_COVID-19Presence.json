@@ -11,10 +11,10 @@
   "Pregnancy": 0.04,
   "Other disease": 0.03,
   "Tobacco": 0.03,
-  "ICU": 0.02,
-  "Intubed": 0.02,
-  "Patient Type": 0.01,
-  "Medical unit": 0.01,
-  "Usmr": 0.005,
+  "ICU": 0.015,
+  "Intubed": 0.015,
+  "Patient Type": 0.005,
+  "Medical unit": 0.005,
+  "Usmr": 0.0,
   "Sex": 0.0
 }

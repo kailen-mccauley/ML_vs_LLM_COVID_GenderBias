@@ -9,11 +9,11 @@
   "Obesity": 0.05,
   "COPD": 0.04,
   "Renal chronic": 0.04,
-  "Medical unit": 0.03,
   "Other disease": 0.03,
   "Inmsupr": 0.02,
   "Asthma": 0.02,
   "Usmr": 0.02,
+  "Medical unit": 0.02,
   "Tobacco": 0.01,
   "Pregnancy": 0.005,
   "Sex": 0.005

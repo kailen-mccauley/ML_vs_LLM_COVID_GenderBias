@@ -14,7 +14,7 @@
   "ICU": 0.02,
   "Other disease": 0.02,
   "Patient Type": 0.01,
-  "Medical unit": 0.01,
-  "Usmr": 0.01,
+  "Medical unit": 0.00,
+  "Usmr": 0.00,
   "Sex": 0.00
 }
