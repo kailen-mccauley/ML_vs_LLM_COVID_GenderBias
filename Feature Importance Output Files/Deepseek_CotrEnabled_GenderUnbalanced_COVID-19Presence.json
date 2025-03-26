@@ -1,74 +1,20 @@
-[
-  {
-    "feature": "Age",
-    "weight": 0.2
-  },
-  {
-    "feature": "Diabetes",
-    "weight": 0.12
-  },
-  {
-    "feature": "COPD",
-    "weight": 0.1
-  },
-  {
-    "feature": "Hypertension",
-    "weight": 0.09
-  },
-  {
-    "feature": "Obesity",
-    "weight": 0.08
-  },
-  {
-    "feature": "Cardiovascular",
-    "weight": 0.07
-  },
-  {
-    "feature": "ICU",
-    "weight": 0.06
-  },
-  {
-    "feature": "Intubed",
-    "weight": 0.05
-  },
-  {
-    "feature": "Renal chronic",
-    "weight": 0.05
-  },
-  {
-    "feature": "Inmsupr",
-    "weight": 0.04
-  },
-  {
-    "feature": "Patient Type",
-    "weight": 0.04
-  },
-  {
-    "feature": "Pregnancy",
-    "weight": 0.03
-  },
-  {
-    "feature": "Other disease",
-    "weight": 0.02
-  },
-  {
-    "feature": "Tobacco",
-    "weight": 0.02
-  },
-  {
-    "feature": "Asthma",
-    "weight": 0.01
-  },
-  {
-    "feature": "Sex",
-    "weight": 0.01
-  },
-  {
-    "feature": "Medical unit",
-    "weight": 0.005
-  },
-  {
-    "feature": "Usmr",
-    "weight": 0.005
-  }
-]
+{
+  "Age": 0.2,
+  "Diabetes": 0.12,
+  "COPD": 0.1,
+  "Hypertension": 0.09,
+  "Obesity": 0.08,
+  "Cardiovascular": 0.07,
+  "ICU": 0.06,
+  "Intubed": 0.05,
+  "Renal chronic": 0.05,
+  "Inmsupr": 0.04,
+  "Patient Type": 0.04,
+  "Pregnancy": 0.03,
+  "Other disease": 0.02,
+  "Tobacco": 0.02,
+  "Asthma": 0.01,
+  "Sex": 0.01,
+  "Medical unit": 0.005,
+  "Usmr": 0.005
+}

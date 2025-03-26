@@ -14,5 +14,7 @@
   "Tobacco": 0.02,
   "Patient Type": 0.02,
   "Usmr": 0.01,
-  "Medical unit": 0.01
+  "Medical unit": 0.01,
+  "Sex": 0.00,
+  "Pregnancy": 0.00
 }
