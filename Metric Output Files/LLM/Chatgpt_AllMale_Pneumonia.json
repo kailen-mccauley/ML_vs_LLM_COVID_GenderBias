@@ -1,0 +1,31 @@
+{
+    "accuracy": 0.853499149478644,
+    "f1_macro": 0.5954900002408753,
+    "f1_weighted": 0.8130042378736768,
+    "confusion_matrix": [
+        [
+            426380,
+            5459
+        ],
+        [
+            70158,
+            14157
+        ]
+    ],
+    "label_distribution_comparison": {
+        "0": {
+            "actual_count": 431839,
+            "predicted_count": 496538,
+            "difference": 64699
+        },
+        "1": {
+            "actual_count": 84315,
+            "predicted_count": 19616,
+            "difference": 64699
+        }
+    },
+    "total_actual": 516154,
+    "total_predicted": 516154,
+    "dataset": "Test",
+    "model_name": "Chatgpt"
+}

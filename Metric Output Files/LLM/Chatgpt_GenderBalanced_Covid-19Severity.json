@@ -1,0 +1,57 @@
+{
+    "accuracy": 0.51799,
+    "f1_macro": 0.22163100913165013,
+    "f1_weighted": 0.4969547564169301,
+    "confusion_matrix": [
+        [
+            48986,
+            4484,
+            7117,
+            1251
+        ],
+        [
+            563,
+            133,
+            121,
+            59
+        ],
+        [
+            13,
+            54,
+            48,
+            55
+        ],
+        [
+            23470,
+            5153,
+            5861,
+            2632
+        ]
+    ],
+    "label_distribution_comparison": {
+        "0": {
+            "actual_count": 61838,
+            "predicted_count": 73032,
+            "difference": 11194
+        },
+        "1": {
+            "actual_count": 876,
+            "predicted_count": 9824,
+            "difference": 8948
+        },
+        "2": {
+            "actual_count": 170,
+            "predicted_count": 13147,
+            "difference": 12977
+        },
+        "3": {
+            "actual_count": 37116,
+            "predicted_count": 3997,
+            "difference": 33119
+        }
+    },
+    "total_actual": 100000,
+    "total_predicted": 100000,
+    "dataset": "Test",
+    "model_name": "Chatgpt"
+}
