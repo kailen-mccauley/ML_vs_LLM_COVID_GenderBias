@@ -5,6 +5,7 @@ This project compares classical machine learning (CML) models and large language
 ## Final Report
 
 - [Evaluation of LLM Feature Importance Recognition and Prediction on Lung Disease (PDF)](Evaluation%20of%20LLM%20Feature%20Importance%20Recognition%20and%20Prediction%20on%20Lung%20Disease.pdf)
+-  [Video Presentation (YouTube)](https://www.youtube.com/watch?v=8zgQVspVbxk)
 
 ## Repository Structure
 
